@@ -11,6 +11,8 @@ header {
 }
 #myFamily {
   border-radius: 25px;
+  max-width: 100%;
+  height: auto;
 }
 .headerGrid {
   display: grid;
