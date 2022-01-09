@@ -16,7 +16,7 @@ header {
 }
 .headerGrid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: auto auto;
 }
 footer {
   background-color: #356e4d;
